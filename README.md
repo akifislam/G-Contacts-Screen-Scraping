@@ -6,7 +6,7 @@ That's why, this repository was created to bypass Google's protection.
 
 <div align="center">
  </br>
- <img src="./Samples/directory.png" height="200" width="563" />
+ <img src="./Sample Screenshots/directory.png" height="916" width="1690" />
  </br>
 
 </div>
